@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "901499115461",
+    "firebase_url": "https://letsjustchat-97b10.firebaseio.com",
+    "project_id": "letsjustchat-97b10",
+    "storage_bucket": "letsjustchat-97b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901499115461:android:0940e8fb5cc1b271",
+        "android_client_info": {
+          "package_name": "science.wookup.letsjustchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901499115461-gqqt7u8mseb179l71p8o89ba90abv8et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "science.wookup.letsjustchat",
+            "certificate_hash": "b38e7f6e252442a14633b5acaf91f1b7a2691494"
+          }
+        },
+        {
+          "client_id": "901499115461-o343sj48erfqn1b3kgbliualr1lcnqcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxZHan1fjZYckmcphMkGP7FGvaP9F6u3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901499115461-o343sj48erfqn1b3kgbliualr1lcnqcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
